@@ -1,4 +1,4 @@
-package mate.academy.online_book_shop;
+package mate.academy.book.shop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
